@@ -15,9 +15,17 @@ int level2Minutes = level2 % MINUTES_PER_HOUR;    // remainder gives leftover mi
 
 std::cout << "Level 2 time: " << level2Hours << " hour(s) and "
           << level2Minutes << " minute(s)\n";
+ 
+int dh= level2Hours-level1Hours;
+int dm= level2Minutes-level1Minutes;
+
+std::cout << "The difference in time is " <<dh<< "hour(s) and "
+          <<dm<< "minutes(s)\n";
     
     return 0;
 }
 //The results were... 
 //Level 1 time: 1 hour(s) and 18 minute(s)
 //Level 2 time: 2 hour(s) and 24 minute(s)
+//The difference in time is 1hour(s) and 6minutes(s)
+
