@@ -47,3 +47,6 @@ What I learned from this was...
 how to get hours which was to divide and to get the minutes I had to use the modulos. I knew I had to use modulos for this assignment but I was using it wrong.
 I also learned that for printing it out I could do it the way AI did it. It was not just in one line.
 Maybe they did it just to see it better? IDK, but I will play around with that. 
+
+After using AI I was finally able to get the finished product that I was happy with. I was working on this for a few days but I was too stubborn to use AI. I just really wanted to be able to do it by myself. But as the due date was getting closer I just surrendered to AI for help. 
+But in the end i'm happy to learn what I was doing wrong. 
